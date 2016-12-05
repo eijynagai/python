@@ -13,5 +13,5 @@ I'm using the book [Python for Biologists](http://pythonforbiologists.com/index.
 
 - [Learn Python: The Hard Way](https://learnpythonthehardway.org/book/)
 - [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
-- [PyVideos]()
+- [PyVideos](http://pyvideo.org/index.html)
 
