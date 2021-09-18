@@ -1,4 +1,5 @@
 # Fibonacci numbers module
+# example: python fibo.py 1000
 
 def fib(n):    # write Fibonacci series up to n
     a, b = 0, 1
